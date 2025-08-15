@@ -4,5 +4,5 @@ torchvision==0.17.2
 pillow==10.3.0
 numpy==1.26.4
 opencv-python==4.9.0.80
-gdown==5.1.0
 git+https://github.com/jacobgil/pytorch-grad-cam.git
+gdown
