@@ -50,6 +50,13 @@ regnet_y_8gf: <img width="1839" height="737" alt="image" src="https://github.com
 
 
 ---
+## Model Weights  
+If you're running locally, download model weights manually and place them in the models/ folder
+OR
+The app will automatically download them from Google Drive using gdown.
+
+🔗 Google Drive Folder:
+📂 All Model Weights: https://drive.google.com/drive/folders/1Z02X8VTI_sJ0kJUyk1y3E5bmJ1zZzPej?usp=sharing
 
 ## 📂 Project Structure
 
@@ -64,10 +71,3 @@ betel-leaf-disease/
 
 
 
-## Model Weights  
-If you're running locally, download model weights manually and place them in the models/ folder
-OR
-The app will automatically download them from Google Drive using gdown.
-
-🔗 Google Drive Folder:
-📂 All Model Weights: https://drive.google.com/drive/folders/1Z02X8VTI_sJ0kJUyk1y3E5bmJ1zZzPej?usp=sharing
